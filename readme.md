@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 <br>
@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O ToDo List é uma página web para criação e controle de tarefas.
+
+- [Acesse o projeto finalizado, online](https://jonasmaia12.github.io/to-do-list/)
 
 ## 🔖 Layout
 
